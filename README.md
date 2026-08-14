@@ -145,10 +145,15 @@ npm run dev
 ### 5. 使用
 
 1. 浏览器打开 http://localhost:5173
+. <img width="2829" height="1530" alt="屏幕截图 2026-08-14 112645" src="https://github.com/user-attachments/assets/4cf6e928-31ab-4f00-ba73-947d314bfc4f" />
+
 2. 点击右上角的 **登录** 按钮，先 **去注册** 创建一个账号
+ <img width="2786" height="1548" alt="屏幕截图 2026-08-14 112706" src="https://github.com/user-attachments/assets/c2b90b76-6d58-495a-857c-7d15ab0be10e" />
 3. 注册成功后自动登录，地球上的城市会从后端加载
+   <img width="2707" height="1548" alt="屏幕截图 2026-08-14 112624" src="https://github.com/user-attachments/assets/778e6ec1-8764-463f-989e-b8c08af98e35" />
 4. 点击 **新增城市** 按钮添加旅行目的地（填写城市名、经纬度、旅行时间）
 5. 点击地球上的城市光点，打开记忆卡片
+ <img width="983" height="1431" alt="屏幕截图 2026-08-14 112754" src="https://github.com/user-attachments/assets/abee842a-85d1-44ef-b552-2bcd24dbbaaa" />
 6. 在卡片中点击 **上传照片** 区域选择图片（支持拖拽）
 7. 点击 **旅行手账** 进入编辑模式，记录旅行故事
 
